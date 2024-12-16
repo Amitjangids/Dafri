@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 829 660" style="enable-background:new 0 0 829 660;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#E6EFF8;}
+	.st3{font-family:'Gotham-Bold';}
+	.st4{font-size:18.2391px;}
+	.st5{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st6{opacity:5.000000e-02;clip-path:url(#SVGID_2_);}
+	.st7{opacity:5.000000e-02;}
+	.st8{clip-path:url(#SVGID_5_);fill:#FFFFFF;}
+	.st9{opacity:0.22;clip-path:url(#SVGID_2_);}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:0.3157;stroke-miterlimit:10;}
+	.st11{font-size:23.0814px;}
+	.st12{font-size:52.5301px;}
+	.st13{letter-spacing:-2;}
+	.st14{font-size:18.551px;}
+</style>
+<g>
+	<defs>
+		
+			<rect id="SVGID_1_" x="60" y="107.1" transform="matrix(0.9577 -0.2878 0.2878 0.9577 -77.4378 133.2578)" width="708.9" height="445.8"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<path class="st1" d="M624.5,75c0.1,5.9,4.4,19.8,0.2,25c-2.6,6.6-28.7,10.8-34.2,13.4l-3.3-27.2C598.2,82.9,613.4,78.4,624.5,75z
+			 M623.3,66.7c0.4,1.1,0.6,3.5,0.7,4.7l-37.3,11.2l-1.6-13.2l27.8-8.4C617.4,59.5,622,62.1,623.3,66.7z"/>
+	</g>
+	<g class="st0">
+		<text transform="matrix(0.9577 -0.2878 0.2878 0.9577 214.9162 562.8193)" class="st2 st3 st4">Rebort Smith</text>
+	</g>
+	
+		<radialGradient id="SVGID_3_" cx="323.3062" cy="972.0591" r="295.4911" gradientTransform="matrix(0.9577 -0.2878 0.2878 0.9577 -173.945 -508.1425)" gradientUnits="userSpaceOnUse">
+		<stop  offset="3.148202e-04" style="stop-color:#101010;stop-opacity:0.87"/>
+		<stop  offset="0.2841" style="stop-color:#0D0D0D;stop-opacity:0.9069"/>
+		<stop  offset="1" style="stop-color:#090909"/>
+	</radialGradient>
+	<path class="st5" d="M809.8,414c4.5,15.1-4.1,31.3-19.3,35.8l-622,186.9c-15.1,4.6-31.3-4.1-35.8-19.3L21.1,245.5
+		c-4.5-15.1,4.1-31.2,19.3-35.8l622-186.9c15.1-4.6,31.2,4.1,35.8,19.3L809.8,414z"/>
+	<g class="st0">
+		<path class="st1" d="M676.4,60.4c0.1,5.7,4.3,19.1,0.2,24.1c-2.5,6.4-27.7,10.4-33,12.9l-3.2-26.2C651,68.1,665.7,63.7,676.4,60.4
+			z M675.2,52.4c0.4,1.1,0.5,3.4,0.7,4.5l-36,10.8L638.3,55l26.9-8.1C669.6,45.5,674,48,675.2,52.4z"/>
+	</g>
+	<g class="st6">
+		<defs>
+			<path id="SVGID_4_" class="st7" d="M256,318.6c1.2,43.8,32.5,146.7,1.5,185.2c-12,19-27.7,31.5-47.2,37.3c0,0-206.2,62-206.2,62
+				l-24.7-201.4C61.5,377,173.9,343.2,256,318.6z M247.2,256.9c2.8,8.1,4.2,25.9,5.4,34.5l-276.5,83.1l-12-98l206.2-62
+				C203.9,203.7,237.7,223.1,247.2,256.9z"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+		</clipPath>
+		<path class="st8" d="M789.1,413.5c4.5,15.1-4.1,31.3-19.3,35.8l-622,186.9c-15.1,4.6-31.3-4.1-35.8-19.3L0.3,245.1
+			c-4.5-15.1,4.1-31.2,19.3-35.8l622-186.9c15.1-4.6,31.2,4.1,35.8,19.3L789.1,413.5z"/>
+	</g>
+	<g class="st9">
+		<path class="st10" d="M300.9,300.4c1.2,42.3,31.3,141.4,1.5,178.6c-11.6,18.4-26.8,30.4-45.5,36c0,0-198.8,59.8-198.8,59.8
+			L34.2,380.6C113.4,356.8,221.8,324.2,300.9,300.4z M292.4,240.9c2.7,7.8,4.1,25,5.2,33.3L31,354.3l-11.6-94.5
+			c0,0,198.8-59.8,198.8-59.8C250.8,189.6,283.3,208.3,292.4,240.9z"/>
+	</g>
+	<g class="st0">
+		<text transform="matrix(0.9577 -0.2878 0.2878 0.9577 145.8606 344.3251)" class="st1 st3 st11">Available Balance</text>
+	</g>
+	<g class="st0">
+		<text transform="matrix(0.9577 -0.2878 0.2878 0.9577 174.0203 438.028)" class="st1 st3 st12 st13">ZAR 42, 975. 19</text>
+	</g>
+	<g class="st0">
+		<text transform="matrix(0.9577 -0.2878 0.2878 0.9577 196.943 591.2629)" class="st2 st3 st14">Rebort Smith</text>
+	</g>
+</g>
+</svg>

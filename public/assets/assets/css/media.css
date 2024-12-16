@@ -1,0 +1,171 @@
+@media screen and (max-width:1699px)
+{}
+
+@media screen and (max-width:1599px)
+{
+    .same-banner-heading h2 {font-size: 40px;margin-bottom: 0;}
+    .epay-section .epay-image-parent img {max-width: 650px;}
+    header.fixed-top ~ section.same-section.epay-section {padding: 180px 0;}
+}
+
+@media screen and (max-width:1499px)
+{}
+
+@media screen and (max-width:1399px)
+{
+    header.fixed-top ~ section.same-section.epay-section .row .same-banner-heading {padding-left: 0;}
+    section.same-section.get-paid-parent .row.align-items-center {padding-left: 0;}
+    .epay-section .epay-image-parent img {max-width: 590px;}
+    header.fixed-top ~ section.same-section.epay-section {padding: 150px 0;}
+    .same-heading h3 {font-size: 28px;}
+    .same-section.common-parent .cta-box h3 {font-size: 28px;}
+    .same-section {padding: 70px 0;}
+    .same-section.common-parent ~ footer{padding-top: 0 !important;}
+    .same-dba .dba-contant h3 {font-size: 28px; margin: 0;}
+}
+
+@media screen and (max-width: 1299px)
+{}
+
+@media screen and (max-width: 1199px)
+{  
+    header.fixed-top ~ section.same-section.epay-section {padding: 120px 0;}
+    header .navbar .log-nav .nav-item{margin-left: 30px !important;}
+    .same-banner-heading h2 {font-size: 32px;}
+    .epay-section .epay-image-parent img {max-width: 500px;}
+    .same-banner-heading p {font-size: 18px;}
+    .same-heading h3 {font-size: 26px;}
+    .same-section {padding: 60px 0;}
+    .paid-content-parent p + p {margin-top: 10px;}
+    .bussiness-content-parent ul li + li {margin-top: 20px;}
+    .same-section.common-parent .cta-box h3 {font-size: 26px;}
+    section.same-section.dba-earn-section.bg-color .row .paid-image-parent img {max-width: 290px;}
+    .same-dba .dba-contant h3 {font-size: 26px;}
+    section.same-section.reward-section>img {display: none;}
+    section.same-section.reward-section{background: #FAFAFA; padding: 70px 0 !important;}
+    .reward-section .reward-inner-content {position: inherit;transform: translateY(-0);}
+    .flexibel-parent{position: inherit; transform: translateY(-0);}
+    section.same-section.p-0.barrow-space .row .paid-image-parent img {max-width: 300px;}
+    section.same-section.p-0.barrow-space {padding: 60px 0 !important;}
+    section.same-section.card-box-section .row{justify-content: center;}
+    section.same-section.card-box-section .row .col-lg-3 {max-width: 33.33%;flex: 0 0 33.33%; margin-top: 25px;}
+    .reward-section .reward-inner-content p {margin: 0;}
+    .card-box-content-parent {padding: 25px 0;}
+    .card-box-content-parent h3 {font-size: 20px;margin: 0;}
+
+
+}
+
+@media screen and (max-width: 1080px)
+{}
+
+@media screen and (max-width: 991px)
+{
+
+    .same-section.common-parent .row [class*="col"] {max-width: 100%;flex: 0 0 100%;}
+    .same-section.common-parent .row{text-align: center;}
+    .same-section.common-parent .row .col-md-7 .btn{margin: 0 auto;}
+    .giftcard-bottom-parent {text-align: center;margin-top: 50px;}
+
+    .epay-section .epay-image-parent{display: none;}
+    header.fixed-top ~ section.same-section.epay-section .same-banner-heading {text-align: center;}
+    .same-banner-heading ul{justify-content: center;}
+    header.fixed-top ~ section.same-section.epay-section {padding: 70px 0;}
+    .anything-section-parent .same-heading{text-align: center;}
+    .anything-section-parent .row{justify-content: center;}
+    .anything-section-parent .row .col-lg-4 {max-width: 50%;flex: 0 0 50%; margin-top: 30px;}
+    .paid-content-parent {text-align: center;}
+    .get-paid-parent .same-heading {text-align: center;}
+    .paid-image-parent {text-align: center;}
+    .paid-image-parent img {max-width: 440px;margin-top: 40px;}
+    .bussines-parent {margin-top: 60px;}
+    .run-bussiness-img{margin-bottom: 40px;}
+    .run-bussiness-img img {max-width: 420px;}
+    .same-banner-heading {text-align: center;}
+    .epay-image-parent {text-align: center;margin-top: 30px;}
+    .epay-image-parent img {max-width: 440px;}
+    section.same-section.dba-earn-section .paid-image-parent img {max-width: 310px;}
+    section.same-section.dba-earn-section .paid-image-parent {margin-bottom: 40px;}
+    .dba-coiun-content ul li + li {margin-top: 0;border-top: 1px solid rgb(0 0 0 / 21%);}
+    .dba-coiun-content ul li {text-align: center;padding: 15px 0;}
+    .dba-earn-section .row {margin-top: 0;}
+    .dba-earn-section .row .col-lg-6:first-child {order: 2;}
+    section.same-section.dba-earn-section{padding-bottom: 0;}
+    section.same-section.dba-earn-section .paid-image-parent {margin-bottom: 0;}
+    section.same-section.dba-earn-section.bg-color .row{padding: 0;}
+    section.same-section.dba-earn-section.bg-color .row .paid-image-parent img {margin-bottom: 60px;}
+    section.same-section.epay-section.borrow-section.p-0 {padding: 70px 0 !important;}
+    .flexibel-content span {font-size: 16px;margin-bottom: 10px;letter-spacing: 3px;}
+    .flexibel-content.same-heading h3 {margin-bottom: 10px;}
+    .flexibel-content.same-heading p + p {margin-top: 0;}
+    .flexibel-content.same-heading.p-0 {text-align: center;}
+    section.same-section.p-0.barrow-space .col-lg-6:first-child {order: 2;}
+    section.same-section.reward-section{padding: 60px 0 !important;}
+}
+
+@media screen and (max-width: 767px)
+{
+    .same-banner-heading h2 {font-size: 28px; margin: 5px 0;}
+    .epay-section a {font-size: 14px;}
+    .same-section .btn {min-width: auto;font-size: 14px;padding: 10px 18px;}
+    .same-banner-heading ul li {padding: 0 22px 0 0;margin: 5px 0;}
+    .same-section {padding: 40px 0;}
+    .same-heading h3 {font-size: 22px;}   
+    .paid-image-parent img {max-width: 320px;margin-top: 20px;}
+    .run-bussiness-img img {max-width: 350px;}
+    .bussiness-content-parent ul li span{top: 3px;}
+    .epay-image-parent img {max-width: 330px;}
+    section.same-section.dba-earn-section .paid-image-parent img {max-width: 270px;}
+    .investing-section .same-heading {text-align: center;}
+    .investing-section .same-heading + .same-heading {margin-top: 0;margin-bottom: 0 !important;}
+    .bussines-parent{padding: 0;}
+    .same-dba .dba-contant h3 {font-size: 22px;}
+    section.same-section.dba-earn-section.bg-color .row .paid-image-parent img {margin-bottom: 40px;}
+    .reward-inner-content p{font-size: 18px;}
+    section.same-section.reward-section {padding: 40px 0 !important;}
+    section.same-section.p-0.barrow-space {padding: 40px 0 !important;}
+    section.same-section.card-box-section .row .col-lg-3 {max-width: 50%;flex: 0 0 50%;}
+
+}
+
+@media screen and (max-width: 700px)
+{}
+
+@media screen and (max-width: 600px)
+{}
+
+@media screen and (max-width: 576px)
+{
+    header.fixed-top ~ section.same-section.epay-section {padding: 50px 0;}
+    .anything-section-parent .row .col-lg-4 {max-width: 100%;flex: 0 0 100%;margin-top: 20px;}
+}
+
+@media screen and (max-width: 530px)
+{}
+
+@media screen and (max-width: 480px)
+{  
+    .dba-button {text-align: center;}
+    .dba-contant {text-align: center;}
+    .dba-box{display: block;}
+    .same-section .btn {padding: 7px 18px;}
+    section.same-section.card-box-section .row .col-lg-3 {max-width: 100%;flex: 0 0 100%;margin-top: 25px;}
+    .card-box-parent figure{height: auto !important;}
+}
+
+@media screen and (max-width: 450px)
+{}
+
+@media screen and (max-width: 380px)
+{
+    .epay-image-parent img {max-width: 100%;}
+    section.same-section.dba-earn-section .paid-image-parent img {max-width: 100%;}
+    section.same-section.dba-earn-section.bg-color .row .paid-image-parent img {max-width: 240px;}
+}
+
+@media screen and (max-width: 320px)
+{}
+
+
+
+

@@ -1,0 +1,370 @@
+#all1 .flip-table-parent{height: auto !important;}
+.red_growth{color: red !important;}
+.postive_grouth{color: green !important;}
+.table_size{height: 450px;}
+.table_size .flip-table-parent{height: 290px;}
+.table_size_1{height: 450px;}
+.table_size_1 .flip-table-parent{height: 220px;}
+.table_size_1 .custom-select-field{margin: 0px 0 30px;}
+.table_auto{height: auto !important;}
+.table_auto .flip-table-parent{height: auto !important;overflow-y: auto !important;}
+
+section.dashboard-main-tab-wrapper.content-header ul#myTab {display: flex;align-items: center;justify-content: center; padding: 10px 0;}
+section.dashboard-main-tab-wrapper.content-header ul#myTab li a{margin-right: 0;}
+section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item {max-width: 20%; flex: 0 0 20%;}
+section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item:first-child a{margin-left: 0;}
+section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item:last-child a{margin-right: 0;}
+section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item .nav-link{ margin: 0 15px; }
+section.dashboard-main-tab-wrapper div#myTabContent div#product .dashboard-activity-box ul#myTab li.item {margin-right: 25px;}
+section.dashboard-main-tab-wrapper div#myTabContent div#product .dashboard-activity-box ul#myTab {justify-content: flex-start; padding-bottom: 50px;}
+section.dashboard-main-tab-wrapper div#myTabContent div#product .dashboard-activity-box ul#myTab li.item a {min-width: initial;}
+.total-value-box .year-transition i {font-family: 'FontAwesome';font-style: normal;font-weight: 400;font-size: 15px;}
+.downarrow i {color: red; margin: 0 5px;}
+.uparrow i{color: #3AC685; margin: 0 5px;}
+
+.inner-chart-box-parent .no-record {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+.downarrow span, 
+.uparrow span {width: auto !important;height: auto !important;border-radius: 0 !important;background: transparent !important; font-size: 16px;}
+.downarrow span{color: red;}
+.uparrow span{color: #3AC685;}
+.dynamic-value {display: flex; align-items: center; justify-content: flex-start;}
+.dynamic-value h4{font-size: 16px; font-weight: 400; color: #000; margin: 0; padding: 0 10px;}
+.total-value-box .year-transition + .year-transition{margin-top: 10px;}
+.flip-table-parent.customer_report_table {overflow: initial;}
+
+/*.dashboard-activity-box{width: 100%;height: 24px;overflow: hidden;position: relative;}
+.scroller-tabs{margin: 0;padding: 0;position: absolute;top: 0;bottom: -25px;left: 0;right: 0;white-space: nowrap;overflow: auto;}
+*/
+
+.tab-content .conutry_section ul {justify-content: flex-start !important;margin: 30px 0 15px;}
+.tab-content .conutry_section ul li.nav-item {max-width: 100% !important; flex: 0 0 0% !important;}
+.tab-content .conutry_section ul li.nav-item a {width: 172px;height: 135px;font-size: 18px;display: flex;align-items: center;justify-content: center;background: transparent !important;box-shadow: 0px 0px 5px #00000029;border: 1px solid #DBDBDB;}
+.tab-content .conutry_section ul li.nav-item a:hover{background: #28232A !important;border-color: transparent;color: #fff;}
+/*.tab-content .conutry_section ul li.nav-item a:hover {background: rgb(219 219 219 / 25%) !important;color: #000 !important;}
+.tab-content .conutry_section ul li.nav-item.active {color: #fff !important;}
+.tab-content .conutry_section ul li.nav-item.active a:hover {color: #fff !important;}*/
+.chart-parent div#chartContainer{overflow-x: scroll !important; overflow-y: initial !important;}
+section.dashboard-main-tab-wrapper.content-header div#myTabContent .tab-pane .tabsWrapper ul li a {background: transparent;box-shadow: 0px 0px 5px #00000029;border: 1px solid #DBDBDB;}
+.row.country-report-wrapper .custom-select-field {margin: 15px 0 30px;}
+.tabsWrapper {position: relative; padding-top: 1px;}
+.tabsWrapper span.next, .tabsWrapper span.previous {width: 35px;background: #28232a;border-radius: 100%;font-size: 14px;color: #fff;padding: 5px 10px;height: 35px;text-align: center;display: flex;align-items: center;justify-content: center;user-select: none;border: 1px solid transparent;transition: 0.4s;-webkit-transition: 0.4s;}
+.tabsWrapper span.next:hover,
+.tabsWrapper span.previous:hover{background: transparent; border-color: #28232a; color: #28232a;}
+span.previous {position: absolute;left: 0;top: 0;z-index: 999;cursor: pointer;}
+span.next {position: absolute;right: 0; top: 0; z-index: 999;cursor: pointer; margin-right: 0;}
+.custom-select-field.currency_div {margin-left: 10px !important;}
+.tabs-bottom-btn{display: flex; align-items: center; justify-content: center;}
+.tabs-bottom-btn span {text-align: center; margin: 0 3px !important;}
+.items {width:100%;overflow-x: hidden;overflow-y: hidden;white-space: nowrap;user-select: none;cursor: pointer;transition: all 0.2s;will-change: transform;position: relative;background: rgba(255,255,255,0.1);font-size: 0;perspective: 500px;transition: .5s cubic-bezier(0.175, 0.885, 0.32, 1.275)}
+.second-tabs li.item {display: inline-block;margin: 0;}
+.second-tabs li.item a {/*background: transparent !important;*/}
+.custom-select-field select {box-shadow: 0px 0px 6px #00000029;border-radius: 5px;padding: 10px 10px;font-size: 18px;width: auto;color: #28232A; -webkit-appearance: none; cursor: pointer; padding-right: 40px !important;}
+.inner-chart-content h2 {margin: 0;color: #28232A;font-size: 22px;line-height: 1.4;}
+.inner-chart-content {display: flex;align-items: flex-start;justify-content: space-between;padding: 20px 0;}
+.inner-chart-box-parent {background: #fff;margin: 20px 0 0;padding: 15px; height: 460px; position: relative;}
+a.flip-btn {background: #28232A;color: #fff;display: inline-block;min-width: 90px;padding: 6px;border-radius: 3px;text-align: center;font-size: 18px; border: 1px solid transparent; transition: 0.4s; -webkit-transition: 0.4s;}
+a.flip-btn:hover{background: transparent; color:#28232A; border-color: #28232A;}
+.customer_chart-parent .chart-parent .inner-chart-wrapper .inner-chart-content {padding-top: 0;}
+.custom-select-field {position: relative;max-width: 100%; margin: 0px 0 30px; display: inline-block;}
+span.select-arrow i {position: absolute;right: 14px;top: 42%;transform: translateY(-50%);cursor: pointer;pointer-events: none;font-size: 25px;}
+.flip-table-parent{width: 100%; border: 1px solid #DBDBDB; border-radius: 5px; padding: 8px;overflow-y: scroll;height: 360px;}
+.flip-table-parent table{width: 100% !important;}
+.flip-table-parent table tr th{background: #28232A; color: #fff; padding: 10px; text-align: center;}
+.flip-table-parent table tr td {background: #fff;color: #000000;text-align: center;padding: 10px;border: 1px solid rgb(0 0 0 / 9%);}
+.canvasjs-chart-container a.canvasjs-chart-credit {display: none;}
+.flip-table-parent table tr th:first-child {border-radius: 5px 0 0 0;}
+.flip-table-parent table tr th:last-child {border-radius: 0 5px 0 0;}
+.content-wrapper .content-header{padding: 15px;}
+div#innerchartContainerchart canvas.canvasjs-chart-canvas {width: 100%;}
+/*div#innerchartContainer canvas, div#innerchartContainerchart canvas{width: 800px !important; height: 300px;}*/
+div#innerchartContainer,
+div#innerchartContainerchart{width: 100% !important;overflow-x: scroll;margin: 0 auto;}
+div#innerchartContainerchart .canvasjs-chart-canvas{font-size: 30px;}
+
+.front,
+.back {width: 100%;backface-visibility: hidden; transition: transform 1s;
+  transform-style: preserve-3d;}
+.inner-chart-flip-parent{position: relative;}
+.inner-chart-wrapper.back {visibility: hidden;opacity: 0; display: none;}
+
+.inner-chart-flip-parent.active .inner-chart-wrapper.back {visibility: visible; display: block; opacity: 1; transform: rotateY( 360deg ) ;
+  transition: transform 0.5s;}
+.inner-chart-flip-parent.active .inner-chart-wrapper.front {display: none; visibility: hidden;opacity: 0; transform: rotateY( 360deg ) ;
+  transition: transform 0.5s;}
+  .inner-chart-flip-parent.not-scroll .inner-chart-wrapper.back.space-chart {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+/*--------- 19-08-2022 css ------*/
+.cols_class .col {
+    width: 33.33%;
+    text-align: center;
+    border: 1px solid;
+    border-right: 0;
+    padding: 5px;
+    margin-top: 8px;
+    font-weight: 300;
+}
+
+.cols_class {
+    display: flex;
+    text-align: center;
+    border-bottom: oldlace;
+    margin: auto;
+}
+
+.customer_chart-parent .flip-table-parent table tr th {
+    border-radius: 0 5px 0 0;
+    padding: 10px 0 0 !important;
+}
+
+.customer_chart-parent .flip-table-parent table tr th
+{
+    border: 1px solid;
+}
+.inner-chart-box-parent1
+{
+    background: #fff;
+    padding: 15px
+}
+.customer_tabs ul li a
+{
+    padding: 3px 15px;
+    background: #DBDBDB;
+    color: #28232A;
+    font-size: 18px;
+    min-width: auto;
+    text-align: center;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+.customer_tabs ul li a:hover {
+    border-color: transparent !important;
+    color: #fff;
+    background: #28232A;
+}
+.customer_tabs ul li.active a {
+    background: #28232A !important;
+    border-color: transparent;
+    color: #fff;
+}
+.customer_tabs  ul#myTab2
+{
+    border: none;
+    margin-bottom: 25px;
+}
+.customer_tabs .nav-tabs>li.active>a, .customer_tabs .nav-tabs>li.active>a:focus, .customer_tabs .nav-tabs>li.active>a:hover
+{
+    color: #fff;
+}
+.new_table table tr th {
+    background: #28232A;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px 0 0;
+}
+.new_table .cols_class .col {
+    width: 50%;
+    text-align: center;
+    border: 1px solid;
+    border-right: 0;
+    padding: 5px;
+    margin-top: 8px;
+    font-weight: 300;
+}
+.new_table table tr td:first-child
+{
+    text-align: inherit;
+}
+.new_table table tr td img
+{
+    margin-right: 10px;
+}
+.custom-select-field1 {
+    position: relative;
+    max-width: 140px;
+    margin: 0px 0 30px;
+}
+.custom-select-field1 select{padding: 5px 10px;width: 140px;box-shadow: 0px 0px 6px #00000029;border-radius: 5px;font-size: 20px;color: #28232A;-webkit-appearance: none;cursor: pointer;}
+.sizes_box{height: 530px;}
+.total-value-box{margin: 15px 0 0;}
+.total-value-box .year-transition {font-size: 16px;color: #000;font-weight: 400;display: flex;align-items: center;}
+.total-value-box .year-transition span {width: 20px; display: inline-block; height: 20px;background: #fff;border-radius: 3px;}
+.total-value-box .year-transition .green{background: #3AC685;}
+.total-value-box .year-transition .black{background: #28232A;}
+.pay_loader {position: fixed;width: 100%;height: 100%;top: 0;z-index: 99;background: rgba(245,245,245,0.8);display: flex;text-align: center;align-items: center;justify-content: center;}
+.pay_loader img {width: 150px;}
+
+
+
+
+.right_action_lo{
+    display:none;position:absolute;margin:0px 0 0 4px;z-index: 9999;
+}
+.error-message{ color: #f00; font-size: 13px}
+.require{ color: #f00;}
+.success{ background: #5be7c8; border: 1px #00ca6d solid; padding: 3px 10px; width: 100%; display: inline-block; margin-bottom: 10px;
+ color: #fff;}
+
+.success-{ background: #5be7c8; border: 1px #dd4b39 solid; padding: 3px 10px; width: 100%; display: inline-block; margin-bottom: 10px;
+ color: #dd4b39;}
+
+/*.img_sec{
+    width: 69% !important;
+}*/
+
+.drt {
+    height: 500px;
+    overflow: auto;
+}
+fieldset{
+    background: #fff;
+}
+
+.company_tab span{display: inline-block;padding: 4px 10px;background: #23272d;color: #d2d2d2;margin-bottom: 3px;cursor: pointer; transition: all 0.1s ease-in-out 0s;}
+.company_tab span:hover, .company_tab span.active{background: #7c7c85; color: #fff;}
+
+.admin_st{float: left;width: 100%;font-size: 19px;color: #666;}
+.chart_loader{position: absolute; top: 50%; margin-top: -50px; right: 0; bottom: 0; left: 0; text-align: center; z-index: 9;}
+.chart_loader img{width:80px;}
+.control_span{padding-top:7px;}
+.customer_tabs.table1 div#myTabContent1 .flip-table-parent.fixTableHead.new_table {height: 600px !important; padding: 0;}
+
+
+/*=====================================18 Aug 2022========================================*/
+
+section.dashboard-main-tab-wrapper .tab-content>.tab-pane.active {display: block;opacity: 1;}
+section.dashboard-main-tab-wrapper .tab-content>.tab-pane{display: none;}
+section.dashboard-main-tab-wrapper ul#myTab li a {padding: 10px 15px;background: #DBDBDB;color: #28232A;font-size: 18px;text-align: center; border-radius: 4px; margin-right: 30px;}
+section.dashboard-main-tab-wrapper div#myTabContent {margin: 20px 0 0;}
+section.dashboard-main-tab-wrapper ul#myTab {border-bottom: none;}
+section.dashboard-main-tab-wrapper div#myTabContent section.content {padding-left: 0;padding-right: 0;}
+section.dashboard-main-tab-wrapper .show {display:initial !important;}
+section.dashboard-main-tab-wrapper ul#myTab li a:hover{border-color: transparent !important; color: #fff; background: #28232A;}
+section.dashboard-main-tab-wrapper ul#myTab li.active a {background: #28232A !important;border-color: transparent;color: #fff;}
+.dashboard-activity-box{position: relative;}
+.dashboard-activity-box ul{padding: 0; margin: 40px 0 0; display: flex; align-items: center; justify-content: start;}
+.dashboard-activity-box li {list-style: none;}
+.dashboard-activity-box ul li a {width: 172px;height: 135px;border-radius: 10px; background: transparent; border: 1px solid #DBDBDB;padding: 10px;font-size: 20px;color: #28232A;display: flex;align-items: center;justify-content: center;text-align: center; white-space: break-spaces; cursor: col-resize;}
+.dashboard-activity-box li + li {margin-left: 15px;}
+.dashboard-activity-box ul li a.active,
+.dashboard-activity-box ul li a:hover{background: #28232A !important; color: #fff; border-color: transparent;}
+.flip-table-parent table tr td table td {padding: 0;width: 33.33%; border-bottom: 0; padding: 10px 0; border-top: 0;}
+.flip-table-parent table tr td:nth-child(3){padding: 0;}
+
+.fixTableHead {overflow-y: auto;height: 330px;}
+.fixTableHead table thead th {position: sticky;top: 0;}
+.inner-chart-flip-parent.not-scroll .inner-chart-box-parent .flip-table .fixTableHead {overflow-y: auto;height: 330px !important; padding: 0;}
+.inner-chart-flip-parent.not-scroll .inner-chart-box-parent .flip-table .fixTableHead table tr th {position: sticky;top: 0;}
+
+
+
+/*==================================responsive css start===================================*/
+
+
+@media screen and (max-width: 1699px){
+    section.dashboard-main-tab-wrapper ul#myTab li a{margin-right: 10px;}
+}
+
+@media screen and (max-width: 1599px){
+    section.dashboard-main-tab-wrapper ul#myTab li a{margin-right: 10px;font-size: 16px;}
+}
+
+@media screen and (max-width: 1399px){
+    section.dashboard-main-tab-wrapper div#myTabContent div#product .dashboard-activity-box ul#myTab{padding-bottom: 20px !important;}
+    .custom-select-field select {padding: 5px 10px;font-size: 14px;}    
+    section.dashboard-main-tab-wrapper ul#myTab li a {font-size: 15px;margin-right: 10px;}
+    .dashboard-activity-box ul li a {width: 122px !important;height: 92px !important;min-width: initial !important; font-size: 16px !important;}
+    .tabsWrapper span.next, .tabsWrapper span.previous {width: 30px;font-size: 13px;height: 30px; margin: 0 !important;}
+    .inner-chart-content{padding-top: 0;}
+    .row.country-report-wrapper .inner-chart-flip-parent .customer_tabs.table1 ul#myTab2 {margin-top: 15px;}
+    .inner-chart-content h2 {font-size: 18px;}
+    .custom-select-field{margin: 10px 0 10px !important;}
+    .custom-select-field select{font-size: 18px;}
+    section.dashboard-main-tab-wrapper div#myTabContent div#product .dashboard-activity-box ul#myTab li.item {margin-right: 15px;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item .nav-link {margin: 0 10px;}
+    a.flip-btn {min-width: 50px;font-size: 14px;padding: 4px 10px;}
+    .inner-chart-box-parent {height: 400px;}
+    .flip-table-parent{height: 326px !important;}
+    span.select-arrow i {top: 38%;font-size: 18px;}
+    .table_size_1 .flip-table-parent{height: 250px !important;}
+    .table_size .flip-table-parent{height: 320px !important;}
+    section.dashboard-main-tab-wrapper ul#myTab li a {padding: 8px 13px;}
+    .dashboard-activity-box ul{margin: 20px 0 0;}
+    .customer_report_box .custom-select-field {margin: 0 0 30px;}
+    .tab-content .conutry_section ul li.nav-item a {width: 120px !important;height: 92px !important;font-size: 14px !important;}
+    .tab-content .conutry_section ul {margin: 10px 0 10px !important;}
+    .inner-tabs-chart-parent {padding: 0 0 50px;}
+    .flip-table-parent {height: 325px;}
+    a.flip-btn {min-width: 70px !important;padding: 4px !important;font-size: 16px !important;}
+    .inner-chart-content{padding: 10px 0 !important;}
+    .inner-chart-content h2{font-size: 20px;}
+    .custom-select-field select {padding: 7px 8px;font-size: 17px !important;}
+    .tabsWrapper {padding-top: 10px;}
+    .customer_tabs ul li a {padding: 7px 15px;font-size: 16px;}
+    
+}
+
+@media screen and (max-width: 1299px){
+    .customer_chart-parent .col-lg-12 .inner-chart-box-parent1 .customer_tabs .flip-table .flip-table-parent.customer_report_table table {width: 1000px !important;}
+    .customer_chart-parent .col-lg-12 .inner-chart-box-parent1 .customer_tabs .flip-table .flip-table-parent.customer_report_table table tr td table{width: 100% !important;}
+    .customer_chart-parent .col-lg-12 .inner-chart-box-parent1 .customer_tabs .flip-table .flip-table-parent.customer_report_table {overflow-x: scroll;}
+    .flip-table-parent table tr td table {width: 100%!important;}
+}
+
+@media screen and (max-width: 1199px){
+    .front, .back{position: initial;}
+    .inner-chart-wrapper.back{display: none;}
+    .inner-chart-flip-parent.active .inner-chart-wrapper.back {display: block;}
+    .inner-chart-flip-parent.active .front{display: none;}
+    /*div#innerchartContainer canvas, div#innerchartContainerchart canvas {width: 900px !important;}*/
+    .custom-select-field select {font-size: 16px;}
+    .inner-chart-flip-parent.not-scroll .inner-chart-wrapper.back.space-chart .inner-chart-box-parent {margin-top: 60px;}   
+    .customer_tabs.table1 div#myTabContent1 .flip-table-parent.fixTableHead.new_table table{width: 950px !important;}
+    .customer_tabs.table1 div#myTabContent1 .flip-table-parent.fixTableHead.new_table table tr td table{width: 100% !important;}
+}
+
+@media screen and (max-width: 991px){
+    .dashboard-activity-box ul li a {width: 140px;height: 105px;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item {max-width: 50%;flex: 0 0 50%;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab{flex-wrap: wrap;}
+    section.dashboard-main-tab-wrapper div#myTabContent .dashboard-activity-box.active .tabsWrapper ul#myTab {flex-wrap: initial;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item .nav-link {margin: 5px 5px;}
+    .tabsWrapper {padding-top: 10px;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item:last-child a{margin-right: 5px;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item:first-child a{margin-left: 5px;}
+    
+}
+
+@media screen and (max-width: 767px){
+    .customer_tabs ul li a {padding: 5px 15px;font-size: 14px;}
+    .custom-select-field select {font-size: 15px !important;}
+    div#innerchartContainer canvas {pointer-events: none;}
+    .dashboard-activity-box ul li a:hover {background: transparent !important;color: #28232A !important;border-color: #DBDBDB !important;}
+    section.dashboard-main-tab-wrapper ul#myTab li.active a{color: #fff !important;}
+
+}
+
+@media screen and (max-width: 576px){
+    div#myTabContent .conutry_section ul#myTab {justify-content: center !important;}
+    .inner-chart-flip-parent.not-scroll .flip-table-parent table {width: 550px !important;}
+}
+
+@media screen and (max-width: 420px){
+    .custom-select-field.currency_div {margin-left: 0px !important;}
+}
+
+@media screen and (max-width: 380px){
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item {max-width: 100%;flex: 0 0 100%;}
+    section.dashboard-main-tab-wrapper.content-header ul#myTab li.nav-item .nav-link{margin: 5px 0 !important;}
+    div#myTabContent .conutry_section ul#myTab li.nav-item a {margin: 5px !important;}
+    .dynamic-value h4 {font-size: 14px;padding: 0 5px;}
+    .total-value-box .year-transition i {font-size: 14px; margin: 0 !important;}
+    .total-value-box .year-transition span {width: 15px;height: 15px;}
+}
+
+

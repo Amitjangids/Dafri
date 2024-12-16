@@ -1,0 +1,430 @@
+/*responsive*/
+@media screen and (max-width: 1920px) and (min-width: 1366px) {
+    .banner-section .container {
+        max-width: 1140px;
+    }
+
+    .wrapper {
+        max-width: 1632px !important
+    }
+
+    .hamburger-menu.active {
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s;
+        opacity: 1;
+        z-index: 999;
+        right: 20px;
+    }
+    .active .sign-btn-black a{margin-right: 20px}
+}
+
+@media only screen and (max-width: 1366px) {
+    .banner-section .container {
+        max-width: 1140px;
+    }
+
+    .wrapper {
+        max-width: 1280px !important
+    }
+
+    .f-logo img {
+        width: 100%;
+    }
+
+    .f-logo {
+        width: 300px
+    }
+
+    .page-heading .container {
+        max-width: 1140px;
+    }
+
+    .wrapper2 {
+        max-width: 1200px !important;
+    }
+
+    .page-heading h1 {
+        font-size: 70px;
+        color: var(--main-white-color);
+        width: 47%;
+    }
+
+ .customer-statment p {
+    font-size: 16px;
+    color: var(--main-white-color);
+    margin-bottom: 40px;
+    line-height: 27px;
+}
+
+   /*.arrow-slide {
+    position: absolute;
+    right: 30%;
+    bottom: 47px;
+    display: block;
+}*/
+/*.customers-says-slider .carousel-control-prev {
+    position: absolute;
+    width: auto;
+    top: auto;
+    bottom: auto;
+    opacity: 1;
+    left: 19px;
+}*/
+
+    .account-type-thumb h5 {
+        color: #000;
+        font-size: 28px;
+        margin: 32px 0 20px;
+    }
+
+    .account-type-thumb p {
+        font-size: 14px;
+    }
+
+    .enterprise-bg h5 {
+        color: #fff;
+    }
+
+    .account-type-thumb {
+        padding: 40px;
+        position: relative;
+        min-height: 350px;
+    }
+
+    .account-type-thumb::after {
+        position: absolute;
+        width: 90%;
+        height: 90%;
+        border: 1px solid #BFBFBF;
+        content: "";
+        left: 19px;
+        top: 19px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .menu-open {
+        display: none
+    }
+
+    .banner-section h1 {
+        font-size: 40px;
+    }
+
+    .download-app-section .col-sm-12 {
+        flex-flow: row wrap;
+        flex-direction: column;
+        padding: 20px 20px 0 20px;
+    }
+
+    .download-content-box {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .mob-screen {
+        width: 100%;
+    }
+
+    .mob-screen img {
+        width: 100%;
+    }
+
+    .download-content-box h2 {
+        font-size: 40px;
+    }
+
+    .download-btn-box {
+        margin: 0 0 40px;
+    }
+
+    .sign-head a {
+        display: none;
+    }
+
+    .hamburger-menu {
+
+        top: -50px;
+    }
+
+    .col-sm-6.banner-content {
+        padding: 40px
+    }
+
+    .banner-section p {
+        font-size: 16px;
+    }
+
+    .partners-imgs {
+        justify-content: center;
+    }
+
+    .partners-imgs img {
+        padding: 15px;
+        width: 100px;
+
+    }
+
+    .partners-main {
+        background: #F5F4F4;
+        padding: 20px 0;
+    }
+
+    .heading-big h2 {
+        font-size: 40px;
+    }
+
+    .thumb-four-box {
+        padding: 50px 0 0;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .thumb-four-box .thumb-four-content {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .thumb-four-box .thumb-four-content h3 {
+        font-size: 26px;
+        color: var(--main-black-color);
+        margin-bottom: 10px;
+    }
+
+    .thumb-four-box .thumb-four-icon {
+        margin-bottom: 10px;
+    }
+
+    .thumb-four-box .thumb-four-content p {
+        font-size: 16px;
+    }
+
+    .heading-main h2 {
+        font-size: 40px;
+    }
+
+    .account-thumb-main {
+        margin-top: 60px;
+    }
+
+    .col-sm-6.content-account {
+        padding: 15px
+    }
+
+    .content-account p {
+        margin: 22px 0;
+        color: var(--main-gray-color);
+    }
+
+    .content-account h3 {
+        font-size: 30px;
+        color: var(--main-black-color);
+        margin-top: 20px;
+    }
+
+    .alternet-box-main .account-thumb-main:nth-child(even) .col-sm-6.content-account {
+        padding: 15px;
+    }
+
+    .alternet-box-main .account-thumb-main:nth-child(even) .col-sm-6.content-account .btn-black {
+        margin-bottom: 30px;
+    }
+
+    .quick-black-box h2 {
+        font-size: 40px;
+    }
+
+    .quick-black-box {
+        background-image: url(/dafri/public/img/front/texture-left.png);
+    }
+
+    .download-app-section {
+        padding: 100px 0
+    }
+
+    .col-sm-12.ftr-main .footerbox {
+        width: 100%;
+        margin: 0 0 40px;
+    }
+
+    .footer-para {
+        margin: 40px 0;
+    }
+
+    .hamburger-menu.active {
+        right: 55px
+    }
+
+    .menu .flex {
+        top: 50px;
+        flex-direction: column;
+    }
+
+    /*.menu{height: auto;}*/
+    .menu ul {
+        display: none;
+            margin: 19px 0 0;
+    }
+.header-menu ul li a {
+    font-size: 18px;}
+    .header-menu h5 {
+        font-size: 22px;
+        color: var(--main-black-color);
+        margin-bottom: 0;
+        border-bottom: 1px solid #969696;
+        padding: 18px 0;
+    }
+
+    .header-menu h5:hover.menu ul {
+        display: block;
+    }
+
+    .page-heading h1 {
+        width: 100%;
+        font-size: 50px;
+    }
+
+    .page-heading {
+
+        padding: 60px 0 107px;
+    }
+
+    .follow-us {
+
+        align-items: flex-start;
+
+        margin-top: 20px;
+
+    }
+
+    .social-header a {
+        margin-left: auto;
+        margin-right: 20px;
+    }
+
+    .page-heading h1 br {
+        display: none
+    }
+
+    .about-us {
+        padding: 60px 0 0;
+    }
+
+    .small-para {
+        width: 100%;
+    }
+
+    .italic-heading {
+        font-size: 40px;
+    }
+
+    .our-services {
+        padding: 60px 0
+    }
+
+    .heading-section br {
+        display: none;
+    }
+
+    .heading-section {
+        font-size: 40px;
+        margin: 10px 0 0;
+        line-height: 52px;
+    }
+
+    .customers-says-main {
+        padding: 60px 0
+    }
+
+    .customers-says-slider {
+        margin-top: 30px;
+    }
+    .customer-img{width: 100%;}
+    .customers-slide-box {
+    display: flex;
+    flex-direction: column;}
+    .customer-statment{width: 100%;padding: 30px;}
+    .customers-says-slider .carousel-control-prev .carousel-control-prev-icon {
+    background-image: url(/dafri/public/img/front/left-arrow.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+}
+.customers-says-slider .carousel-control-next .carousel-control-next-icon {
+    background-image: url(/dafri/public/img/front/right-arrow.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+}
+.blog-page .col-sm-4{flex: 0 0 100%;}
+.blog-single h1{font-size: 40px; width: 100%}
+.blog-single .single-blog-image-main{margin: 50px 0;}
+.heading-two h2{font-size: 40px;}
+.powerfull-banking-img {
+    width: 100%;
+}
+.powerfull-banking-img img{
+    width: 100%;
+}
+.feat-box{width: 100%}
+.heading-two {
+    padding: 50px 0;
+}
+.account-type-thumb{margin-bottom: 30px;}
+.powerfull-banking .heading-two p{width: 100%;}
+.accordion-box .card-title {
+    font-size: 18px;
+    color: var(--main-black-color);
+}
+.accordion-box .accordion>.card>.card-header {
+    padding: 20px;}
+    .accordion .card-header.collapsed:after {
+    background: url(/dafri/public/img/front/arrow-up-accord.svg);
+    content: "";
+    float: right;
+    width: 15px;
+height: 15px;
+    background-position: top;
+    background-size: cover;
+}
+.powerfull-banking {
+    padding: 50px 0;
+}
+.form-main {
+    padding: 60px 0;
+}
+.form-main form .form-group{margin-bottom: 30px;}
+.form-main form .form-group label{font-size: 26px;}
+.check-box span {
+    font-size: 17px;
+}
+section.pay-with-easy {
+    padding: 50px 0 50px;
+}
+.pay-easy-content h2{margin-bottom: 20px;}
+.pay-easy-content p{font-size: 18px; line-height: 30px;}
+.feat-box{margin-bottom: 30px;}
+.account-types{padding: 0 20px}
+.pre-register .nav-tabs .nav-item a{font-size: 15px !important;padding: 10px 14px;}
+.layout--tabs {
+    padding: 0 15px;
+}
+.pre-register .nav-tabs .nav-item {
+    margin-bottom: 0;
+    margin-right: 6px;
+}
+.privacy h2{font-size: 40px;}
+.content-page .content-para p{font-size: 16px; line-height: 27px;}
+.content-page h2{font-size: 40px;}
+.alternet-box-main {
+    padding: 0 20px;
+}
+.thank-you-page p{width: 100%}
+.text-field-filter form {
+    width: 100%;
+}
+}
